@@ -19,3 +19,18 @@ Features
 - Market & Limit order execution
 - Input validation
 - Logging support
+
+
+## Project Structure
+
+binance-trading-bot/
+│
+├── bot/
+│   ├── client.py        # Binance API client
+│   ├── orders.py        # Order execution logic
+│   ├── validators.py    # Input validation
+│   └── logging_config.py
+│
+├── cli.py               # Command line interface
+├── requirements.txt     # Dependencies
+└── README.md
