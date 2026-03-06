@@ -7,6 +7,12 @@ The bot allows users to place market and limit orders using command-line argumen
 
 This assignment helped in understanding API integration, command-line interfaces (CLI), and modular Python project structure.
 
+## Usage Example
+
+Run a market order using the command line:
+
+python cli.py --symbol BTCUSDT --side BUY --type MARKET --quantity 0.002
+
 Features
 - CLI-based trading bot
 - Binance Futures Testnet integration
