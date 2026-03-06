@@ -1,0 +1,20 @@
+2026-03-06 19:44:32,233 - ERROR - APIError(code=-2014): API-key format invalid.
+2026-03-06 20:00:38,885 - ERROR - APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-06 20:02:32,153 - ERROR - APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-06 20:04:58,939 - ERROR - APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-06 20:14:48,313 - ERROR - APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-06 20:16:12,973 - ERROR - APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-06 20:22:02,295 - ERROR - APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-06 20:23:49,674 - ERROR - APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-06 20:24:01,734 - ERROR - APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-06 20:40:11,840 - ERROR - APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-06 20:41:22,396 - ERROR - APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-06 20:41:45,204 - ERROR - APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-06 20:43:07,608 - ERROR - APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-06 20:53:39,086 - ERROR - APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-06 20:54:41,529 - ERROR - APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-06 20:56:06,545 - ERROR - APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-06 21:00:36,234 - ERROR - APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-06 21:04:32,246 - ERROR - APIError(code=-2014): API-key format invalid.
+2026-03-06 21:06:26,583 - ERROR - APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2026-03-06 21:07:08,066 - INFO - {'orderId': 12659230832, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ826db21f4b58d18c72788e', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.002', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1772811427939}
